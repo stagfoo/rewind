@@ -10,8 +10,8 @@ android {
         applicationId = "com.rewind.app"
         minSdk = 30 // Game sound capture (AudioPlaybackCapture) arrived in Android 10; 11 to match the other Thor apps.
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     signingConfigs {
